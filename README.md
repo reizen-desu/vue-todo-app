@@ -1,6 +1,7 @@
 # Todo app
 
 Based on this [devchallenge description](https://devchallenges.io/challenges/hH6PbOHBdPm6otzw2De5).
+Demo [here](https://reizen-desu.github.io/vue-todo-app/).
 
 ## Project description
 
